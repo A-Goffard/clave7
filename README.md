@@ -1,4 +1,4 @@
-Una página web con una prueba de lógica para una ginkana realizada en el Bootcamp de desarrollo web en fundación Peñascal para Bilbostack 2024 .
+Este proyecto de una página web con una prueba de lógica para una ginkana realizada en el Bootcamp de desarrollo web en fundación Peñascal para Bilbostack 2024 ha sido realizado por:Tina Calleja.
 
 Tabla de contenido
 
@@ -10,7 +10,7 @@ Tabla de contenido
 
 Información general
 
-pista de una yincana.
+pista de una yincana en la que aparece un código en binario con un enlace oculto qu te lleva a otra web para poder descifrarlo
 
 Tecnologías utilizadas
 
