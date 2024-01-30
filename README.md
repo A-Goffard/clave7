@@ -1,4 +1,4 @@
-Este proyecto de una página web con una prueba de lógica para una ginkana realizada en el Bootcamp de desarrollo web en fundación Peñascal para Bilbostack 2024 ha sido realizado por:Tina Calleja.
+Este proyecto de una página web con una prueba de lógica para una ginkana realizada en el Bootcamp de desarrollo web en fundación Peñascal para Bilbostack 2024 ha sido realizado por: [Tina Calleja](https://github.com/usertina). 
 
 Tabla de contenido
 
